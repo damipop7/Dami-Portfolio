@@ -10,6 +10,14 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 Data Scientist - Freelancing 
 
 ### Projects 
+#### Machine Learning and Artificial Intelligence 
+##### Image classifier 
+
+##### Text generator 
+
+#### Software Development 
+
+
 
 ### Job Simulations 
 #### British Airways Data Science Job Simulation on Forage
@@ -19,6 +27,10 @@ Built a predictive model to understand factors that influence buying behavior.<b
 [Job_sim](https://github.com/damipop7/BritishAirlineForage)
 
 ### Technical Skills
+Languages: Java, Python, R, React, SQL, JavaScript, HTML/CSS, SAS <br>
+Frameworks: React JS, Node.js, WordPress, RapidAPI <br>
+Developer Tools: Git, Docker, Firebase, VS Code, Visual Studio, PyCharm, D3, MATLAB, Microsoft Azure, Microsoft Excel, Microsoft Access, Tableau. <br>
+Libraries: pandas, NumPy, Matplotlib, scikit-learn, sk-learn, PyTorch, scipy, TensorFlow <br>
 
 ### Certifications and Awards
 
