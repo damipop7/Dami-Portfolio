@@ -9,13 +9,14 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 ### Work Experience 
 Data Scientist - Freelancing 
 
-### Projects and Job Simulations 
+### Projects 
 
+### Job Simulations 
 #### British Airways Data Science Job Simulation on Forage
 Completed a simulation focusing on how data science is a critical component of British Airways' success.<br>
 Scraped and analyzed customer review data to uncover findings.<br>
 Built a predictive model to understand factors that influence buying behavior.<br>
-[Link](https://github.com/damipop7/BritishAirlineForage)
+[Job_sim](https://github.com/damipop7/BritishAirlineForage)
 
 ### Technical Skills
 
