@@ -9,7 +9,7 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 # Work Experience 
 Data Scientist - Freelancing 
 
-### Projects 
+# Projects 
 #### Grocery Exploratory Analysis and Stock Prediction
 
 ##### Image classifier 
