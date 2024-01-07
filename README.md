@@ -10,7 +10,8 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 Data Scientist - Freelancing 
 
 ### Projects 
-#### Machine Learning and Artificial Intelligence 
+#### Grocery Exploratory Analysis ![image](https://github.com/damipop7/Dami-Portfolio/assets/69910671/11e14a67-7b1c-416e-b0b9-c852b83857c5)
+
 ##### Image classifier 
 
 ##### Text generator 
