@@ -10,9 +10,9 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 
 # Work Experience 
 <details>
-  <summary style="font-size: 25px;"> Computer science related</summary>
+  <summary style="font-size: 20px;"> Computer science related</summary>
   <br>
-  Data Scientist - Freelancing 
+  #### Data Scientist - Freelancing 
 </details>
 
 # Projects 
