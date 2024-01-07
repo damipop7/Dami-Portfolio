@@ -1,13 +1,19 @@
 # Data Scientist with Software development, and ML/AI Experience.  
 
+
 # Education
 Bachelor of Science - Computer Science <br>
 Northwest Missouri State University, Maryville, MO <br>
 GPA: 3.8/4.0 <br>
 Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine Learning and Regression Techniques, Data Visualization, Database Management Systems, Network Fundamentals, Software Engineering, Mobile Development (IOS), Data Mining, and Engineering.
 
+
 # Work Experience 
-Data Scientist - Freelancing 
+<details>
+  <summary>Computer science related</summary>
+  <br>
+  Data Scientist - Freelancing 
+</details>
 
 # Projects 
 #### Grocery Exploratory Analysis and Stock Prediction
