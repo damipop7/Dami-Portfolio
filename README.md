@@ -6,7 +6,7 @@ Northwest Missouri State University, Maryville, MO <br>
 GPA: 3.8/4.0 <br>
 Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine Learning and Regression Techniques, Data Visualization, Database Management Systems, Network Fundamentals, Software Engineering, Mobile Development (IOS), Data Mining, and Engineering.
 
-### Work Experience 
+# Work Experience 
 Data Scientist - Freelancing 
 
 ### Projects 
