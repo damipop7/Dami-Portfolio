@@ -7,10 +7,14 @@ GPA: 3.8/4.0 <br>
 Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine Learning and Regression Techniques, Data Visualization, Database Management Systems, Network Fundamentals, Software Engineering, Mobile Development (IOS), Data Mining, and Engineering.
 
 ### Work Experience 
+
+
+
 Data Scientist - Freelancing 
 
 ### Projects 
-#### Machine Learning and Artificial Intelligence 
+#### Grocery Exploratory Analysis and Stock Prediction
+
 ##### Image classifier 
 
 ##### Text generator 
@@ -25,6 +29,10 @@ Completed a simulation focusing on how data science is a critical component of B
 Scraped and analyzed customer review data to uncover findings.<br>
 Built a predictive model to understand factors that influence buying behavior.<br>
 [Job_sim](https://github.com/damipop7/BritishAirlineForage)
+
+#### Cognizant Artificial Intelligence Job Simulation on Forage 
+
+
 
 ### Technical Skills
 Languages: Java, Python, R, React, SQL, JavaScript, HTML/CSS, SAS <br>
