@@ -1,4 +1,4 @@
-# Data Scientist with Software development, and ML/AI Experience.  
+# Data Scientist with Software development experience.  
 
 
 # Education
@@ -16,33 +16,27 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 </details>
 
 # Projects 
-#### Grocery Exploratory Analysis and Stock Prediction
+#### Grocery Exploratory Analysis and Stock Prediction | Python, Git, Tableau, Kaggle, Google Colab  
+- Completed a job simulation focused on Artificial Intelligence for Cognizant’s Data Science team.
+- Conducted exploratory data analysis for Gala Groceries, one of Cognizant’s technology-led clients.
+- Prepared a Python module containing code to train a model and output performance metrics for the ML engineering team.
+- Communicated findings and analysis in the form of a PowerPoint slide to present the results back to the business.
 
-##### Image classifier 
-
-##### Text generator 
-
-#### Software Development 
-
-
-
-### Job Simulations 
-#### British Airways Data Science Job Simulation on Forage
-Completed a simulation focusing on how data science is a critical component of British Airways' success.<br>
-Scraped and analyzed customer review data to uncover findings.<br>
-Built a predictive model to understand factors that influence buying behavior.<br>
-[Job_sim](https://github.com/damipop7/BritishAirlineForage)
-
-#### Cognizant Artificial Intelligence Job Simulation on Forage 
+### Customer Review Prediction | Forage | JupyterLab
+- Completed a job simulation in association with British Airways on data science as a critical component of their success.
+- Scraped and analyzed customer review data to uncover findings.
+- Built a predictive model with an accuracy of 92%, allowing stakeholders to understand factors influencing customer buying behavior.<br>
+[Go-to](https://github.com/damipop7/BritishAirlineForage)
 
 
 
-### Technical Skills
-Languages: Java, Python, R, React, SQL, JavaScript, HTML/CSS, SAS <br>
-Frameworks: React JS, Node.js, WordPress, RapidAPI <br>
-Developer Tools: Git, Docker, Firebase, VS Code, Visual Studio, PyCharm, D3, MATLAB, Microsoft Azure, Microsoft Excel, Microsoft Access, Tableau. <br>
-Libraries: pandas, NumPy, Matplotlib, scikit-learn, sk-learn, PyTorch, scipy, TensorFlow <br>
 
+
+## Technical Skills
+- **Languages:** Python, R, SQL, JavaScript, HTML/CSS.
+- **Technology:** Jupyter, Power BI, SAS, Visual Studio Code, WordPress, Git, Docker, Firebase, D3, MATLAB, Spark, Kubernetes, Jira, MLflow, Pipefy, Tableau, Microsoft Azure, Microsoft Excel, Microsoft Access.
+- **Libraries:** Pandas, NumPy, Matplotlib, scikit-learn, sk-learn, PyTorch, scipy, TensorFlow.
+  
 ### Certifications and Awards
 
 ### Leadership Experience
