@@ -1,6 +1,6 @@
 # Data Scientist with Software development, and ML/AI Experience.  
 
-### Education
+# Education
 Bachelor of Science - Computer Science <br>
 Northwest Missouri State University, Maryville, MO <br>
 GPA: 3.8/4.0 <br>
