@@ -10,7 +10,7 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 Data Scientist - Freelancing 
 
 ### Projects 
-#### Grocery Exploratory Analysis ![image](https://github.com/damipop7/Dami-Portfolio/assets/69910671/11e14a67-7b1c-416e-b0b9-c852b83857c5)
+#### Grocery Exploratory Analysis and Stock Prediction
 
 ##### Image classifier 
 
@@ -26,6 +26,10 @@ Completed a simulation focusing on how data science is a critical component of B
 Scraped and analyzed customer review data to uncover findings.<br>
 Built a predictive model to understand factors that influence buying behavior.<br>
 [Job_sim](https://github.com/damipop7/BritishAirlineForage)
+
+#### Cognizant Artificial Intelligence Job Simulation on Forage 
+
+
 
 ### Technical Skills
 Languages: Java, Python, R, React, SQL, JavaScript, HTML/CSS, SAS <br>
