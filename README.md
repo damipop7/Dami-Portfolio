@@ -8,12 +8,7 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 
 ### Work Experience 
 
----
-layout: default
-title: Computer Science related 
-nav_order: 5
-has_children: 5
----
+
 
 Data Scientist - Freelancing 
 
