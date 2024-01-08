@@ -55,8 +55,5 @@ Data Science Certification
 - AWS Cloud Practitioner Essentials 	In progress
 Cloud Computing Certification
 - British Airways Data Science Job Simulation on Forage 		Complete
-- 
-
-
-### Leadership Experience
+- Cognizant Artificial Intelligence Job Simulation on Forage 		Complete
 
