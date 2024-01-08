@@ -12,7 +12,8 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 <details>
   <summary style="font-size: 20px; font-weight: bold"> Computer Science Related</summary>
   <br>
-  #### Data Scientist - Freelancing 
+  Data Scientist - Freelancing 
+  
 </details>
 
 # Projects 
