@@ -2,9 +2,9 @@
 
 
 # Education
+**Bachelor of Science in Computer Science** <br>
 **Northwest Missouri State University, Maryville, MO**  
 *GPA: 3.8/4.0*  
-**Bachelor of Science in Computer Science** <br>
 *August 2019 – May 2023* <br>
 Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine Learning and Regression Techniques, Data Visualization, Database Management Systems, Network Fundamentals, Software Engineering, Mobile Development (IOS), Data Mining, and Engineering.
 
