@@ -10,16 +10,14 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 
 
 # Work Experience 
-<details>
-  <summary style="font-size: 20px; font-weight: bold"> Computer Science Related</summary>
-  Computer Science Student Tutor
+  ### Computer Science Student Tutor
   Northwest Missouri State University, Maryville, MO || January 2021 - August 2021
   - Tutored students in various courses including Python Programming, Java Programming, Web Development, etc.
   - Initiated, developed, and maintained strong relationships with students to empower them in their learning.
   - Facilitated independent student learning through questioning techniques.
   - Followed established guidelines for basic tutorial sessions.
   
-  Data Scientist
+  ### Data Scientist
   Freelance
   August 2021 - Present 
   - Collaborated with a retail client to analyze sales and customer data, resulting in a 12% increase in revenue through targeted marketing strategies.
