@@ -38,6 +38,7 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 - Conducted exploratory data analysis for Gala Groceries, one of Cognizant’s technology-led clients.
 - Prepared a Python module containing code to train a model and output performance metrics for the ML engineering team.
 - Communicated findings and analysis in the form of a PowerPoint slide to present the results back to the business.
+<!Image>
 
 ### Customer Review Prediction | Forage | JupyterLab
 - Completed a job simulation in association with British Airways on data science as a critical component of their success.
@@ -49,9 +50,16 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 ## Technical Skills
 - **Languages:** Python, R, SQL, JavaScript, HTML/CSS.
 - **Technology:** Jupyter, Power BI, SAS, Visual Studio Code, WordPress, Git, Docker, Firebase, D3, MATLAB, Spark, Kubernetes, Jira, MLflow, Pipefy, Tableau, Microsoft Azure, Microsoft Excel, Microsoft Access.
-- **Libraries:** Pandas, NumPy, Matplotlib, scikit-learn, sk-learn, PyTorch, SciPy, TensorFlow.
+- **Libraries:** Pandas, NumPy, Matplotlib, sci-kit-learn, sk-learn, PyTorch, SciPy, TensorFlow.
   
 ### Certifications and Awards
+- Microsoft Certified: Azure Data Scientist 	In progress
+Data Science Certification
+- AWS Cloud Practitioner Essentials 	In progress
+Cloud Computing Certification
+- British Airways Data Science Job Simulation on Forage 		Complete
+- 
+
 
 ### Leadership Experience
 
