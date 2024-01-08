@@ -45,6 +45,7 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 - Scraped and analyzed customer review data to uncover findings.
 - Built a predictive model with an accuracy of 92%, allowing stakeholders to understand factors influencing customer buying behavior.<br>
 [Go-to](https://github.com/damipop7/BritishAirlineForage)
+<!Image>
 
 
 ## Technical Skills
