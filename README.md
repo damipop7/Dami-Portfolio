@@ -12,8 +12,7 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 # Work Experience 
 <details>
   <summary style="font-size: 20px; font-weight: bold"> Computer Science Related</summary>
-  
-  ### Computer Science Student Tutor
+  <p style="font-size: 10px;>Computer Science Student Tutor</p>
   **Northwest Missouri State University, Maryville, MO**  
   *January 2021 - August 2021*  
   - Tutored students on various courses including Python Programming, Java Programming, Web Development, etc.
