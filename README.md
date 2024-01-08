@@ -29,11 +29,11 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
   - Developed automated reporting and measurement tools, enhancing data-driven decision-making capabilities.
   - Implemented advanced data science techniques, leading to a 40% improvement in predictive analytics using Decision Trees, Random Forest, K-means clustering, Neural Networks, etc.
   - Utilized TensorFlow, sci-kit-learn, and other quantitative methods to build and evaluate machine learning models.
-
 </details>
 
+
 # Projects 
-#### Grocery Exploratory Analysis and Stock Prediction | Python, Git, Tableau, Kaggle, Google Colab  
+#### Grocery Exploratory Analysis and Stock Prediction | Forage | Python, Git, Tableau, Kaggle, Google Colab  
 - Completed a job simulation focused on Artificial Intelligence for Cognizant’s Data Science team.
 - Conducted exploratory data analysis for Gala Groceries, one of Cognizant’s technology-led clients.
 - Prepared a Python module containing code to train a model and output performance metrics for the ML engineering team.
@@ -46,13 +46,10 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 [Go-to](https://github.com/damipop7/BritishAirlineForage)
 
 
-
-
-
 ## Technical Skills
 - **Languages:** Python, R, SQL, JavaScript, HTML/CSS.
 - **Technology:** Jupyter, Power BI, SAS, Visual Studio Code, WordPress, Git, Docker, Firebase, D3, MATLAB, Spark, Kubernetes, Jira, MLflow, Pipefy, Tableau, Microsoft Azure, Microsoft Excel, Microsoft Access.
-- **Libraries:** Pandas, NumPy, Matplotlib, scikit-learn, sk-learn, PyTorch, scipy, TensorFlow.
+- **Libraries:** Pandas, NumPy, Matplotlib, scikit-learn, sk-learn, PyTorch, SciPy, TensorFlow.
   
 ### Certifications and Awards
 
