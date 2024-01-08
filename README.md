@@ -12,27 +12,23 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
 # Work Experience 
 <details>
   <summary style="font-size: 20px; font-weight: bold"> Computer Science Related</summary>
-  <br>
-  
-  ### Computer Science Student Tutor
-  **Northwest Missouri State University, Maryville, MO**  
-  *January 2021 - August 2021*  
-  - Tutored students on various courses including Python Programming, Java Programming, Web Development, etc.
+  Computer Science Student Tutor
+  Northwest Missouri State University, Maryville, MO || January 2021 - August 2021
+  - Tutored students in various courses including Python Programming, Java Programming, Web Development, etc.
   - Initiated, developed, and maintained strong relationships with students to empower them in their learning.
   - Facilitated independent student learning through questioning techniques.
   - Followed established guidelines for basic tutorial sessions.
-  <br>
   
-  ### Data Scientist
-  **Freelance**  
-  *August 2021 - Present*  
+  Data Scientist
+  Freelance
+  August 2021 - Present 
   - Collaborated with a retail client to analyze sales and customer data, resulting in a 12% increase in revenue through targeted marketing strategies.
   - Developed and fine-tuned predictive models using algorithms, improving over 12% baseline for insights into GDP and growth patterns.
   - Conducted A/B testing and analyzed the impact of ML algorithms on customer ticket purchasing patterns.
   - Contributed to the development of ML software systems and frameworks for model deployment and monitoring.
   - Developed automated reporting and measurement tools, enhancing data-driven decision-making capabilities.
   - Implemented advanced data science techniques, leading to a 40% improvement in predictive analytics using Decision Trees, Random Forest, K-means clustering, Neural Networks, etc.
-  - Utilized TensorFlow, scikit-learn, and other quantitative methods to build and evaluate machine learning models.
+  - Utilized TensorFlow, sci-kit-learn, and other quantitative methods to build and evaluate machine learning models.
 
 </details>
 
