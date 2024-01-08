@@ -18,8 +18,7 @@ Relevant coursework: Statistics, Data Structures, Predictive Analysis, Machine L
   - Followed established guidelines for basic tutorial sessions.
   
   ### Data Scientist
-  Freelance
-  August 2021 - Present 
+  Freelance || August 2021 - Present 
   - Collaborated with a retail client to analyze sales and customer data, resulting in a 12% increase in revenue through targeted marketing strategies.
   - Developed and fine-tuned predictive models using algorithms, improving over 12% baseline for insights into GDP and growth patterns.
   - Conducted A/B testing and analyzed the impact of ML algorithms on customer ticket purchasing patterns.
