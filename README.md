@@ -34,11 +34,10 @@ Freelance || August 2021 - Present
 - Conducted exploratory data analysis for Gala Groceries, one of Cognizant’s technology-led clients.
 - Prepared a Python module containing code to train a model and output performance metrics for the ML engineering team.
 - Communicated findings and analysis in the form of a PowerPoint slide to present the results back to the business.
-[Go to the project](https://github.com/damipop7/BritishAirlineForage)
-<br>
-<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/BA%20image.jpeg" alt="British Airways Logo" width = "200"   style="display:inline-block; margin-right: 20px;" />
+[Go to the project](https://github.com/damipop7/DamiForageCognizantArtificialIntelligenceJobSim/tree/main)
 
-<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/Presentation%201%20screenshot.png" alt="Distribution of Sentiments Presentation" width = "200"  style="display:inline-block;"/>
+<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/CognizantLogo.webp" alt="Cognizant Logo" style="display:inline-block; margin-right: 20px;" width = "200"/>
+
 
 ### Customer Review Prediction | Forage | JupyterLab
 - Completed a job simulation in association with British Airways on data science as a critical component of their success.
@@ -46,7 +45,7 @@ Freelance || August 2021 - Present
 - Built a predictive model with an accuracy of 92%, allowing stakeholders to understand factors influencing customer buying behavior.<br>
 [Go to the project](https://github.com/damipop7/BritishAirlineForage)
 <br>
-<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/BA%20image.jpeg" alt="British Airways Logo" width = "200"  style="display:inline-block; margin-right: 20px;" />
+<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/BA%20image.jpeg" alt="British Airways Logo" style="display:inline-block; margin-right: 20px;" />
 
 <img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/Presentation%201%20screenshot.png" alt="Distribution of Sentiments Presentation" width = "200" />
 
