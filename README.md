@@ -42,7 +42,7 @@ Freelance || August 2021 - Present
 - Built a predictive model with an accuracy of 92%, allowing stakeholders to understand factors influencing customer buying behavior.<br>
 [Go to the project](https://github.com/damipop7/BritishAirlineForage)
 <br>
-<img src="https://github.com/damipop7/Dami-Portfolio/blob/main/Assets/Images/BA%20image.jpeg" alt="British Airways Logo" width = "200" height="300" style="display:inline-block; margin-right: 20px;" />
+<img src="https://github.com/damipop7/Dami-Portfolio/main/Assets/Images/BA%20image.jpeg" alt="British Airways Logo" width = "200" height="300" style="display:inline-block; margin-right: 20px;" />
 
 <img src="https://github.com/damipop7/Dami-Portfolio/blob/main/Assets/Images/Presentation%201%20screenshot.png" alt="Distribution of Sentiments Presentation" width = "200" height="300" />
 
