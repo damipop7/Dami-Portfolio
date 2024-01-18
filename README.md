@@ -36,9 +36,9 @@ Freelance || August 2021 - Present
 - Communicated findings and analysis in the form of a PowerPoint slide to present the results back to the business.
 [Go to the project](https://github.com/damipop7/BritishAirlineForage)
 <br>
-<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/BA%20image.jpeg" alt="British Airways Logo" width = "200"  height="400" style="display:inline-block; margin-right: 20px;" />
+<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/BA%20image.jpeg" alt="British Airways Logo" width = "200"   style="display:inline-block; margin-right: 20px;" />
 
-<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/Presentation%201%20screenshot.png" alt="Distribution of Sentiments Presentation" width = "200" height="400"/>
+<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/Presentation%201%20screenshot.png" alt="Distribution of Sentiments Presentation" width = "200"  style="display:inline-block;"/>
 
 ### Customer Review Prediction | Forage | JupyterLab
 - Completed a job simulation in association with British Airways on data science as a critical component of their success.
