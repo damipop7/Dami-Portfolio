@@ -40,10 +40,11 @@ Freelance || August 2021 - Present
 - Completed a job simulation in association with British Airways on data science as a critical component of their success.
 - Scraped and analyzed customer review data to uncover findings.
 - Built a predictive model with an accuracy of 92%, allowing stakeholders to understand factors influencing customer buying behavior.<br>
-[Go to project](https://github.com/damipop7/BritishAirlineForage)
+[Go to the project](https://github.com/damipop7/BritishAirlineForage)
 <br>
-![British Airways Logo](https://github.com/damipop7/Dami-Portfolio/blob/main/Assets/Images/BA%20image.jpeg)
-![Distribution of Sentiments Presentation](https://github.com/damipop7/Dami-Portfolio/blob/main/Assets/Images/Presentation%201%20screenshot.png)
+<img src="https://github.com/damipop7/Dami-Portfolio/blob/main/Assets/Images/BA%20image.jpeg" alt="British Airways Logo" width = "200" />
+
+<img src="https://github.com/damipop7/Dami-Portfolio/blob/main/Assets/Images/Presentation%201%20screenshot.png" alt="Distribution of Sentiments Presentation" width = "200" />
 
 ## Technical Skills
 - **Languages:** Python, R, SQL, JavaScript, HTML/CSS.
