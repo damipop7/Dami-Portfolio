@@ -41,8 +41,8 @@ Freelance || August 2021 - Present
 - Scraped and analyzed customer review data to uncover findings.
 - Built a predictive model with an accuracy of 92%, allowing stakeholders to understand factors influencing customer buying behavior.<br>
 [Go-to](https://github.com/damipop7/BritishAirlineForage)
-<!Image>
-
+![British Airways Logo](https://github.com/damipop7/Dami-Portfolio/blob/main/Assets/Images/BA%20image.jpeg)
+![Distribution of Sentiments Presentation](https://github.com/damipop7/Dami-Portfolio/blob/main/Assets/Images/Presentation%201%20screenshot.png)
 
 ## Technical Skills
 - **Languages:** Python, R, SQL, JavaScript, HTML/CSS.
