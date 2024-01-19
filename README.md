@@ -36,7 +36,7 @@ Freelance || August 2021 - Present
 - Communicated findings and analysis in the form of a PowerPoint slide to present the results back to the business.
 [Go to the project](https://github.com/damipop7/DamiForageCognizantArtificialIntelligenceJobSim/tree/main)
 
-<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/CognizantLogo.webp" alt="Cognizant Logo" width = "200"/>
+<img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/CognizantLogo.webp" alt="Cognizant Logo" width="400" height="300"/>
 
 
 ### Customer Review Prediction | Forage | JupyterLab
