@@ -50,12 +50,12 @@ Freelance || August 2021 - Present
     <img src="https://raw.githubusercontent.com/damipop7/Dami-Portfolio/main/Assets/Images/Presentation%201%20screenshot.png" alt="Distribution of Sentiments Presentation" width="400" height="300"/>
 </p>
 
-## Technical Skills
+# Technical Skills
 - **Languages:** Python, R, SQL, JavaScript, HTML/CSS.
 - **Technology:** Jupyter, Power BI, SAS, Visual Studio Code, WordPress, Git, Docker, Firebase, D3, MATLAB, Spark, Kubernetes, Jira, MLflow, Pipefy, Tableau, Microsoft Azure, Microsoft Excel, Microsoft Access.
 - **Libraries:** Pandas, NumPy, Matplotlib, sci-kit-learn, sk-learn, PyTorch, SciPy, TensorFlow.
   
-### Certifications and Awards
+# Certifications and Awards
 - Microsoft Certified: Azure Data Scientist 	In progress
 Data Science Certification
 - AWS Cloud Practitioner Essentials 	In progress
