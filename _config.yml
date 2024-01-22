@@ -13,5 +13,5 @@ description:
   <p align="justify">
   I am a freelancing Data Scientist with Front-end Development experience.
 
-show_downloads: true
+show_downloads: false #true
 theme: jekyll-theme-minimal
