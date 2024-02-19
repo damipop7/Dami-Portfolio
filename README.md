@@ -56,10 +56,10 @@ Freelance || August 2021 - Present
 - **Libraries:** Pandas, NumPy, Matplotlib, sci-kit-learn, sk-learn, PyTorch, SciPy, TensorFlow.
   
 # Certifications and Awards
-- Microsoft Certified: Azure Data Scientist 	In progress
-Data Science Certification
-- AWS Cloud Practitioner Essentials 	In progress
-Cloud Computing Certification
+- Microsoft Certified: Azure Data Scientist 	(In progress)
+
+- AWS Cloud Practitioner Essentials 	(In progress)
+
 - British Airways Data Science Job Simulation on Forage 		Complete
 - Cognizant Artificial Intelligence Job Simulation on Forage 		Complete
 
