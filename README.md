@@ -22,7 +22,7 @@ Freelance || August 2021 - Present
 - Collaborated with a retail client to analyze sales and customer data, resulting in a 12% increase in revenue through targeted marketing strategies.
 - Developed and fine-tuned predictive models using algorithms, improving over 12% baseline for insights into GDP and growth patterns.
 - Conducted A/B testing and analyzed the impact of ML algorithms on customer ticket purchasing patterns.
-- Contributed to the development of ML software systems and frameworks for model deployment and monitoring.
+- Contributed to developing ML software systems and frameworks for model deployment and monitoring.
 - Developed automated reporting and measurement tools, enhancing data-driven decision-making capabilities.
 - Implemented advanced data science techniques, leading to a 40% improvement in predictive analytics using Decision Trees, Random Forest, K-means clustering, Neural Networks, etc.
 - Utilized TensorFlow, sci-kit-learn, and other quantitative methods to build and evaluate machine learning models.
@@ -30,9 +30,9 @@ Freelance || August 2021 - Present
 
 # Projects 
 #### Grocery Exploratory Analysis and Stock Prediction | Forage | Python, Git, Tableau, Kaggle, Google Colab  
-- Completed a job simulation focused on Artificial Intelligence for Cognizant’s Data Science team.
+- Completed a job simulation focusing on Artificial Intelligence for Cognizant’s Data Science team.
 - Conducted exploratory data analysis for Gala Groceries, one of Cognizant’s technology-led clients.
-- Prepared a Python module containing code to train a model and output performance metrics for the ML engineering team.
+- Prepared a Python module containing code to train a model and output performance metrics for the Machine Learning engineering team.
 - Communicated findings and analysis in the form of a PowerPoint slide to present the results back to the business.
 [Go to the project](https://github.com/damipop7/DamiForageCognizantArtificialIntelligenceJobSim/tree/main)
 
