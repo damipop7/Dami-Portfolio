@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Soccer Analytics - Dami Popoola Portfolio">
+    <title>Soccer Analytics - Dami Portfolio</title>
+    <!-- Ensure correct path to CSS file -->
+    <link rel="stylesheet" href="../style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="profile-header">
+        <div class="header-container">
+            <div class="logo-container">
+                <div class="profile-image">
+                    <img src="../Assets/Images/IMG_7879copy.png" alt="Dami Popoola">
+                </div>
+                <div class="profile-info">
+                    <h1>Oluwadamilola Popoola</h1>
+                </div>
+            </div>
+            <div class="mobile-nav">
+                <div class="menu-toggle" onclick="toggleMobileMenu()">
+                    <div class="menu-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+                <nav class="mobile-menu">
+                    <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../about.html">About</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropbtn">Interests</a>
+                            <ul class="dropdown-content">
+                                <li><a href="soccer.html">Soccer</a></li>
+                                <li><a href="arts.html">Arts</a></li>
+                                <li><a href="music.html">Music</a></li>
+                                <li><a href="Data_Science.html">Data Science</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main content -->
+    <main class="soccer-page">
+        <!-- Hero Section -->
+        <section class="soccer-hero">
+            <div class="hero-content">
+                <h1>Arts</h1>
+                <p>Combining passion for the beautiful game with data science to unlock deeper insights 
+                   and transform how we understand soccer.</p>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section class="soccer-projects">
+            <div class="container">
+                <h2>Featured Projects</h2>
+                <div class="projects-grid">
+                    <!-- Project Card 1 -->
+                    <div class="project-card">
+                        <div class="project-image">
+                            <img src="../Assets/Images/soccer-analysis.jpg" alt="Match Analysis Dashboard">
+                        </div>
+                        <div class="project-content">
+                            <h3>Match Analysis Dashboard</h3>
+                            <p>Interactive visualization of player movements, heat maps, and key performance metrics</p>
+                            <div class="project-tags">
+                                <span class="tag">Python</span>
+                                <span class="tag">D3.js</span>
+                                <span class="tag">Machine Learning</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project Card 2 -->
+                    <div class="project-card">
+                        <div class="project-image">
+                            <img src="../Assets/Images/soccer-prediction.jpg" alt="Predictive Modeling System">
+                        </div>
+                        <div class="project-content">
+                            <h3>Predictive Modeling System</h3>
+                            <p>AI-powered match outcome prediction using historical data and real-time analytics</p>
+                            <div class="project-tags">
+                                <span class="tag">TensorFlow</span>
+                                <span class="tag">Statistical Analysis</span>
+                                <span class="tag">Big Data</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project Card 3 -->
+                    <div class="project-card">
+                        <div class="project-image">
+                            <img src="../Assets/Images/soccer-formation.jpg" alt="Team Formation Optimizer">
+                        </div>
+                        <div class="project-content">
+                            <h3>Team Formation Optimizer</h3>
+                            <p>Algorithm for optimal team formation based on player statistics and opponent analysis</p>
+                            <div class="project-tags">
+                                <span class="tag">Optimization</span>
+                                <span class="tag">Data Analysis</span>
+                                <span class="tag">Python</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--
+        Articles Section
+        <section class="soccer-articles">
+            <div class="container">
+                <h2>Latest Articles</h2>
+                <div class="articles-grid">
+                    // Article Card 1 
+                    <div class="article-card">
+                        <div class="article-content">
+                            <div class="article-meta">
+                                <span>January 15, 2025</span>
+                                <span>8 min read</span>
+                            </div>
+                            <h3>The Evolution of Soccer Analytics</h3>
+                            <p>How data science is revolutionizing the beautiful game</p>
+                            <button class="read-more">Read More →</button>
+                        </div>
+                    </div>
+
+                    //Article Card 2 
+                    <div class="article-card">
+                        <div class="article-content">
+                            <div class="article-meta">
+                                <span>January 20, 2025</span>
+                                <span>12 min read</span>
+                            </div>
+                            <h3>Modern Tactical Analysis</h3>
+                            <p>Breaking down the numbers behind successful strategies</p>
+                            <button class="read-more">Read More →</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section
+        -->
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p class="copyright">© BLUEDAM 2025</p>
+            <div class="social-links">
+                <a href="https://github.com/damipop7" target="_blank" class="social-icon">
+                    <i class="fab fa-github"></i>
+                </a>
+                <a href="https://www.linkedin.com/in/damipopoola/" target="_blank" class="social-icon">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+                <a href="https://twitter.com/your_twitter_handle" target="_blank" class="social-icon">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="../script.js"></script>
+</body>
+</html>s

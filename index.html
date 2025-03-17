@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Oluwadamilola (Dami) Popoola - Full Stack Developer & Data Scientist Portfolio">
+    <title>Dami Portfolio</title>
+    <!-- Preload critical assets -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="profile-header">
+        <div class="header-container">
+            <div class="logo-container">
+                <div class="profile-image">
+                    <img src="Assets/Images/IMG_7879copy.png" alt="Dami Popoola">
+                </div>
+                <div class="profile-info">
+                    <h1>Oluwadamilola Popoola</h1>
+                </div>
+            </div>
+            <div class="mobile-nav">
+                <div class="menu-toggle" onclick="toggleMobileMenu()">
+                    <div class="menu-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+                <nav class="mobile-menu">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <!-- Add Interests Dropdown -->
+                        <li class="dropdown">
+                            <a href="#" class="dropbtn">Interests</a>
+                            <ul class="dropdown-content">
+                                <li><a href="interest pages /soccer.html">Soccer</a></li>
+                                <li><a href="interest pages /arts.html">Arts</a></li>
+                                <li><a href="interest pages /music.html">Music</a></li>
+                                <li><a href="interest pages /Data_Science.html">Data Science</a></li>
+                                <!--li><a href="#web-development">Web Development</a></li-->
+                            </ul>
+                        </li>
+                        <!--li><a href="contact.html">Contact</a></li-->
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+</body>
+
+
+    <main>
+        <!-- Hero section -->
+        <section class="hero-section" id="home">
+            <div class="hero-content">
+                <h1 class="hero-title">DESIGN + </h1>
+                <h1 class="hero-title">ANALYSIS. </h1>
+                <p class="hero-description">Driven by curiosity and passion, 
+                    I am an early-career professional eager to harness the power of data science 
+                    to solve complex real-world challenges and shape the future.</p>
+            </div>
+            <div class="hero-image" role="img" aria-label="Creative workspace illustration">
+                <!-- Will be handled via CSS background or actual image -->
+            </div>
+        </section>
+
+        <!-- About me section -->
+        <section class="about-me-section">
+            <div class="about-content">
+                <h2>About Me</h2>
+                <div class="about-grid">
+                    <div class="about-text">
+                        <p>Hi, I'm Dami, a passionate Data Scientist with coding and designing skills and a strong background in transforming complex data into actionable insights. My journey in technology is driven by curiosity and a desire to solve real-world problems.</p>
+                        <p>With expertise in Python, Machine Learning, and Web Development, I bridge the gap between data analysis and practical applications. My approach combines technical skills with creative problem-solving.</p>
+                        <a href="about.html">More about me</a>
+                    </div>
+                    <div class="about-image">
+                        <img src="Assets/Images/IMG_7879copy.png" alt="Dami Popoola">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills section with tag Cloud -->
+        <section id="skills" class="skills-section">
+            <h2>Skills & Technologies</h2>
+            <div id="tag-cloud"></div>
+        </section>
+
+        <!-- Interests section -->
+        <section id="interests" class="interests-section">
+            <div class="section-header">
+                <h2>Areas of Interest</h2>
+            </div>
+            <div class="gallery-container">
+                <div class="scroll-btn scroll-left" aria-label="Scroll left">
+                    <span>‹</span>
+                </div>
+                <div class="image-gallery">
+                    <div class="gallery-item">
+                        <div class="interest-card">
+                            <img src="Assets/Images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg" alt="Data Science">
+                            <div class="interest-content">
+                                <h3>Data Science</h3>
+                                <p>Transforming data into insights</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <div class="interest-card">
+                            <img src="Assets/Images/muha-ajjan-sL2BRR1cuvM-unsplash.jpg" alt="Full Stack Development">
+                            <div class="interest-content">
+                                <h3>Full Stack Dev</h3>
+                                <p>Building end-to-end solutions</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <div class="interest-card">
+                            <img src="Assets/Images/ben-hershey-QNduHVYW7fI-unsplash.jpg" alt="Soccer">
+                            <div class="interest-content">
+                                <h3>Soccer</h3>
+                                <p>The beautiful game</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <div class="interest-card">
+                            <img src="Assets/Images/simon-lee-hbFKxsIqclc-unsplash.jpg" alt="Arts">
+                            <div class="interest-content">
+                                <h3>Arts</h3>
+                                <p>Creative expression</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <div class="interest-card">
+                            <img src="Assets/Images/greyson-joralemon-wfBXHhMG67o-unsplash.jpg" alt="Music">
+                            <div class="interest-content">
+                                <h3>Music</h3>
+                                <p>Melodies</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="scroll-btn scroll-right" aria-label="Scroll right">
+                    <span>›</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects section -->
+        <section class="soccer-projects">
+            <div class="container">
+                <h2>Previous Projects</h2>
+                <div class="projects-grid">
+                    <!-- Project Card 1 -->
+                    <a href="https://44351-w22.github.io/creative-game-quad-nations-studio-1/" target="_blank" style="text-decoration: none; color: inherit;">
+                        <div class="project-card">
+                            <div class="project-image">
+                                <img src="Assets/Images/go-sprite.png" alt="go-sprite">
+                            </div>
+                            <div class="project-content">
+                                <h3>Go-sprite</h3>
+                                <p>Small project 2D Video game</p>
+                                <div class="project-tags">
+                                    <span class="tag">Godot</span>
+                                    <span class="tag">C++</span>
+                                    <span class="tag">Game Development</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <!-- Project Card 2 -->
+                    <div class="project-card">
+                        <div class="project-image">
+                            <img src="../Assets/Images/soccer-prediction.jpg" alt="Predictive Modeling System">
+                        </div>
+                        <div class="project-content">
+                            <h3>Predictive Modeling System</h3>
+                            <p>AI-powered match outcome prediction using historical data and real-time analytics</p>
+                            <div class="project-tags">
+                                <span class="tag">TensorFlow</span>
+                                <span class="tag">Statistical Analysis</span>
+                                <span class="tag">Big Data</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Project Card 3 -->
+                    <div class="project-card">
+                        <div class="project-image">
+                            <img src="../Assets/Images/soccer-formation.jpg" alt="Team Formation Optimizer">
+                        </div>
+                        <div class="project-content">
+                            <h3>Team Formation Optimizer</h3>
+                            <p>Algorithm for optimal team formation based on player statistics and opponent analysis</p>
+                            <div class="project-tags">
+                                <span class="tag">Optimization</span>
+                                <span class="tag">Data Analysis</span>
+                                <span class="tag">Python</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+         
+
+        <!-- Contact section -->
+        <section id="contact" class="contact-section-detailed">
+            <div class="contact-content">
+                <h2>Get In Touch</h2>
+                <div class="contact-grid">
+                    <div class="contact-form">
+                        <form id="contactForm">
+                            <div class="form-group">
+                                <label for="name">Name</label>
+                                <input type="text" id="name" name="name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" id="email" name="email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="message">Message</label>
+                                <textarea id="message" name="message" required></textarea>
+                            </div>
+                            <button type="submit" class="submit-btn">Send Message</button>
+                        </form>
+                    </div>
+                    <div class="contact-info">
+                        <div class="contact-detail">
+                            <i class="fas fa-envelope"></i>
+                            <div>
+                                <h3>Email</h3>
+                                <p>damipop7@gmail.com</p>
+                            </div>
+                        </div>
+                        <div class="contact-detail">
+                            <i class="fas fa-phone"></i>
+                            <div>
+                                <h3>Phone</h3>
+                                <p>+1 (660) 528-0976</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer section -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p class="copyright">© BLUEDAM 2025</p>
+            <div class="social-links">
+                <a href="https://github.com/damipop7" target="_blank" class="social-icon">
+                    <i class="fab fa-github"></i>
+                </a>
+                <a href="https://www.linkedin.com/in/damipopoola/" target="_blank" class="social-icon">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+                <a href="https://twitter.com/your_twitter_handle" target="_blank" class="social-icon">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

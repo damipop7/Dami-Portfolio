@@ -1,6 +1,38 @@
 # Portfolio  
 
 
+## Overview
+This project is a personal portfolio website for Oluwadamilola (Dami) Popoola, showcasing skills, education, work experience, and projects in data science and web development. The portfolio is designed to highlight Dami's expertise in transforming complex data into actionable insights and creating end-to-end solutions.
+
+## Features
+- **Profile Header**: Displays the name and profile image.
+- **About Me Section**: Provides a brief introduction and background.
+- **Skills Section**: Lists technical skills and technologies used.
+- **Interests Section**: Showcases areas of interest with images.
+- **Projects Section**: Highlights previous projects with links and descriptions.
+
+## How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/damipop7/Dami-Portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Dami-Portfolio
+   ```
+3. Open the `index.html` file in a web browser to view the portfolio.
+
+## Technologies Used
+- HTML, CSS, JavaScript
+- Libraries: Font Awesome, Google Fonts
+
+## Deployment
+The portfolio can be hosted on platforms like GitHub Pages for easy access.
+
+## Contact
+For inquiries, please reach out via email or LinkedIn.
+
+
 # Education
 **Bachelor of Science in Computer Science** <br>
 **Northwest Missouri State University, Maryville, MO**  
@@ -62,4 +94,3 @@ Freelance || August 2021 - Present
 
 - British Airways Data Science Job Simulation on Forage 		Complete
 - Cognizant Artificial Intelligence Job Simulation on Forage 		Complete
-
