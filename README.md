@@ -35,7 +35,7 @@ For inquiries, please reach out via email or LinkedIn.
 
 
 <details>
-   <summary> ## Further Portfolio details</summary>
+   <summary> Further Portfolio details</summary>
 # Education
 **Bachelor of Science in Computer Science** <br>
 **Northwest Missouri State University, Maryville, MO**  
