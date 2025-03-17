@@ -33,6 +33,11 @@ The portfolio can be hosted on platforms like GitHub Pages for easy access.
 For inquiries, please reach out via email or LinkedIn.
 
 
+
+<details>
+   <summary>Portfolio details</summary>
+</details>
+
 # Education
 **Bachelor of Science in Computer Science** <br>
 **Northwest Missouri State University, Maryville, MO**  
