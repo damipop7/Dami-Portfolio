@@ -36,7 +36,6 @@ For inquiries, please reach out via email or LinkedIn.
 
 <details>
    <summary>Portfolio details</summary>
-</details>
 
 # Education
 **Bachelor of Science in Computer Science** <br>
@@ -99,3 +98,5 @@ Freelance || August 2021 - Present
 
 - British Airways Data Science Job Simulation on Forage 		Complete
 - Cognizant Artificial Intelligence Job Simulation on Forage 		Complete
+
+</details>
