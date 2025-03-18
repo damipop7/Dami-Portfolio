@@ -3,16 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Dami Popoola - Full Stack Development</title>
-    <link rel="stylesheet" href="style.css">
+    <meta name="description" content="Soccer Analytics - Dami Popoola Portfolio">
+    <title>Soccer Analytics - Dami Portfolio</title>
+    <!-- Ensure correct path to CSS file -->
+    <link rel="stylesheet" href="../style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <body>
-    <!-- [Same header as index.html] -->
+    <!-- Header -->
     <header class="profile-header">
         <div class="header-container">
             <div class="logo-container">
                 <div class="profile-image">
-                    <img src="Assets/Images/IMG_7879copy.png" alt="Dami Popoola">
+                    <img src="../Assets/Images/IMG_7879copy.png" alt="Dami Popoola">
                 </div>
                 <div class="profile-info">
                     <h1>Oluwadamilola Popoola</h1>
@@ -28,88 +34,157 @@
                 </div>
                 <nav class="mobile-menu">
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <!-- Add Interests Dropdown -->
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../about.html">About</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropbtn">Interests</a>
                             <ul class="dropdown-content">
-                                <li><a href="interest pages /soccer.html">Soccer</a></li>
-                                <li><a href="interest pages /arts.html">Arts</a></li>
-                                <li><a href="interest pages /music.html">Music</a></li>
-                                <li><a href="interest pages /Data_Science.html">Data Science</a></li>
-                                <!--li><a href="#web-development">Web Development</a></li-->
+                                <li><a href="soccer.html">Soccer</a></li>
+                                <li><a href="arts.html">Arts</a></li>
+                                <li><a href="music.html">Music</a></li>
+                                <li><a href="Data_Science.html">Data Science</a></li>
                             </ul>
                         </li>
-                        <!--li><a href="contact.html">Contact</a></li-->
                     </ul>
                 </nav>
             </div>
         </div>
     </header>
-    
-    <main class="full-stack-main">
-        <section class="interests-detail-section">
-            <div class="section-content">
-                <h1>Full Stack Development</h1>
-                
-                <div class="projects-container">
-                    <h2>Web Applications</h2>
-                    <div class="project-grid">
-                        <div class="project-card">
-                            <h3>Portfolio Website</h3>
-                            <p>Modern, responsive personal portfolio with interactive design.</p>
+
+    <!-- Main content -->
+    <main class="soccer-page">
+        <!-- Hero Section -->
+        <section class="soccer-hero">
+            <div class="hero-content">
+                <h1>Music</h1>
+                <p>Combining passion for the beautiful game with data science to unlock deeper insights 
+                   and transform how we understand soccer.</p>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section class="soccer-projects">
+            <div class="container">
+                <h2>Featured Projects</h2>
+                <div class="projects-grid">
+                    <!-- Project Card 1 -->
+                    <div class="project-card">
+                        <div class="project-image">
+                            <img src="../Assets/Images/soccer-analysis.jpg" alt="Match Analysis Dashboard">
+                        </div>
+                        <div class="project-content">
+                            <h3>Match Analysis Dashboard</h3>
+                            <p>Interactive visualization of player movements, heat maps, and key performance metrics</p>
                             <div class="project-tags">
-                                <span>React</span>
-                                <span>JavaScript</span>
-                                <span>CSS</span>
+                                <span class="tag">Python</span>
+                                <span class="tag">D3.js</span>
+                                <span class="tag">Machine Learning</span>
                             </div>
                         </div>
-                        <div class="project-card">
-                            <h3>E-Learning Platform</h3>
-                            <p>Full-stack web application for online course management.</p>
+                    </div>
+
+                    <!-- Project Card 2 -->
+                    <div class="project-card">
+                        <div class="project-image">
+                            <img src="../Assets/Images/soccer-prediction.jpg" alt="Predictive Modeling System">
+                        </div>
+                        <div class="project-content">
+                            <h3>Predictive Modeling System</h3>
+                            <p>AI-powered match outcome prediction using historical data and real-time analytics</p>
                             <div class="project-tags">
-                                <span>Node.js</span>
-                                <span>MongoDB</span>
-                                <span>Express</span>
+                                <span class="tag">TensorFlow</span>
+                                <span class="tag">Statistical Analysis</span>
+                                <span class="tag">Big Data</span>
                             </div>
                         </div>
-                        <div class="project-card">
-                            <h3>Social Media Dashboard</h3>
-                            <p>Real-time analytics dashboard with user engagement metrics.</p>
+                    </div>
+
+                    <!-- Project Card 3 -->
+                    <div class="project-card">
+                        <div class="project-image">
+                            <img src="../Assets/Images/soccer-formation.jpg" alt="Team Formation Optimizer">
+                        </div>
+                        <div class="project-content">
+                            <h3>Team Formation Optimizer</h3>
+                            <p>Algorithm for optimal team formation based on player statistics and opponent analysis</p>
                             <div class="project-tags">
-                                <span>React</span>
-                                <span>Firebase</span>
-                                <span>D3.js</span>
+                                <span class="tag">Optimization</span>
+                                <span class="tag">Data Analysis</span>
+                                <span class="tag">Python</span>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
+        </section>
 
-                <div class="articles-container">
-                    <h2>Development Insights</h2>
-                    <div class="article-list">
-                        <article>
-                            <h3>Microservices Architecture</h3>
-                            <p>Building scalable applications using microservices design patterns.</p>
-                            <a href="#" class="read-more">Read Article</a>
-                        </article>
-                        <article>
-                            <h3>Modern JavaScript Techniques</h3>
-                            <p>Advanced techniques in React and modern JavaScript ecosystem.</p>
-                            <a href="#" class="read-more">Read Article</a>
-                        </article>
-                        <article>
-                            <h3>Performance Optimization Strategies</h3>
-                            <p>Techniques for improving web application speed and efficiency.</p>
-                            <a href="#" class="read-more">Read Article</a>
-                        </article>
+        <!-- Articles Section -->
+        <section class="soccer-articles">
+            <div class="container">
+                <h2>Latest Articles</h2>
+                <div class="articles-grid">
+                    <!-- Article Card 1 -->
+                    <div class="article-card">
+                        <div class="article-content">
+                            <div class="article-meta">
+                                <span>January 15, 2025</span>
+                                <span>8 min read</span>
+                            </div>
+                            <h3>The Evolution of Soccer Analytics</h3>
+                            <p>How data science is revolutionizing the beautiful game</p>
+                            <button class="read-more">Read More →</button>
+                        </div>
+                    </div>
+
+                    <!-- Article Card 2 -->
+                    <div class="article-card">
+                        <div class="article-content">
+                            <div class="article-meta">
+                                <span>January 20, 2025</span>
+                                <span>12 min read</span>
+                            </div>
+                            <h3>Modern Tactical Analysis</h3>
+                            <p>Breaking down the numbers behind successful strategies</p>
+                            <button class="read-more">Read More →</button>
+                        </div>
+                    </div>
+
+                    <!-- Article Card 3 -->
+                    <div class="article-card">
+                        <div class="article-content">
+                            <div class="article-meta">
+                                <span>January 25, 2025</span>
+                                <span>10 min read</span>
+                            </div>
+                            <h3>The Future of Performance Tracking</h3>
+                            <p>Emerging technologies in player monitoring and analysis</p>
+                            <button class="read-more">Read More →</button>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
     </main>
 
-    <!-- [Same footer as index.html] -->
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p class="copyright">© BLUEDAM 2025</p>
+            <div class="social-links">
+                <a href="https://github.com/damipop7" target="_blank" class="social-icon">
+                    <i class="fab fa-github"></i>
+                </a>
+                <a href="https://www.linkedin.com/in/damipopoola/" target="_blank" class="social-icon">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+                <a href="https://twitter.com/your_twitter_handle" target="_blank" class="social-icon">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="../script.js"></script>
 </body>
-</html>
+</html>s
